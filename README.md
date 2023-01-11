@@ -10,7 +10,7 @@
 
 
 ## How do I get the project on my local machine?
-- git clone https://github.com/MohamedSbaih/NotesApp.git
+- git clone https://github.com/MohamedSbaih/Rock-Paper-Scissors-GSG.git
 - git code .
 
 ## How we've created it?
